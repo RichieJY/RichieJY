@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Richard (Richie) Yoder
 ==============================================================================================================================================
+![image](https://github.com/user-attachments/assets/93cdfed7-9bb9-45fb-bfb6-5bcf67b237fe)
 
 Student & Police Dispatcher
 ---------------------------
