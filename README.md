@@ -5,7 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student & Police Dispatcher
 ---------------------------
 
-Studying Information Systems, with interest in Digital Forensics Aspiring Police Officer with specializations in Traffic Homicide Investigation, DUI Enforcement and Digital Forensics
+Studying Information Systems, with interest in Digital Forensics.
+Aspiring Police Officer with specializations in Traffic Homicide Investigation, DUI Enforcement and Digital Forensics
 
 * 🌍  I'm based in Huntsville
 * ✉️  You can contact me at [richardyoder24@gmail.com](mailto:richardyoder24@gmail.com)
