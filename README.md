@@ -13,6 +13,7 @@ Aspiring Police Officer with specializations in Traffic Homicide Investigation, 
 * 🧠  I'm learning jS, jQ, BS5, CSS, HTML5
 * 🤝  I'm open to collaborating on Law Enforcement and Security related projects
 * 🚓  A cool project I've work on: https://github.com/RichieJY/devBakerProject
+* ✌️  My personal WebPage: https://richiejy.github.io/richiewebpage/
 
 ### Skills
 
